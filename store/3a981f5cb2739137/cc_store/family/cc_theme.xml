@@ -5055,7 +5055,7 @@
             <state id="sit" filename="sit.swf"/>
             <state id="walk" filename="walk.swf"/>
         </component>
-	<component type="lower_body" id="adam_a007_blue" path="adam_a007_blue" name="adam_a007_blue" thumb="thumbnail.swf" display_order="161" money="0" sharing="0" enable="Y">
+	<component type="lower_body" id="adam_a007_blue" path="adam_a007_blue" name="adam_a007_blue" thumb="thumbnail.swf" display_order="400" money="0" sharing="0" enable="Y">
             <state id="bendlegs" filename="bendlegs.swf"/>
             <state id="dance" filename="dance.swf"/>
             <state id="default" filename="default.swf"/>

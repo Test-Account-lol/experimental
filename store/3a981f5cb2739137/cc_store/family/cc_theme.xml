@@ -5055,7 +5055,7 @@
             <state id="sit" filename="sit.swf"/>
             <state id="walk" filename="walk.swf"/>
         </component>
-		<component type="upper_body" id="adam_a007_blue" path="adam_a007_blue" name="adam_a007_blue" thumb="thumbnail.swf" display_order="240" money="0" sharing="0" enable="Y">
+	<component type="upper_body" id="adam_a007_blue" path="adam_a007_blue" name="adam_a007_blue" thumb="thumbnail.swf" display_order="240" money="0" sharing="0" enable="Y">
             <state id="chuckle" filename="chuckle.swf"/>
             <state id="crossed_arms" filename="crossed_arms.swf"/>
             <state id="dance" filename="dance.swf"/>
@@ -5883,7 +5883,7 @@
             <state id="taunt" filename="taunt.swf"/>
             <state id="walk" filename="walk.swf"/>
         </component>
-	<component type="upper_body" id="adam_a007_blue" path="adam_a007_blue" name="adam_a007_blue" thumb="thumbnail.swf" display_order="191" money="0" sharing="0" enable="Y">
+	<component type="upper_body" id="adam_a007_blue" path="adam_a007_blue" name="adam_a007_blue" thumb="thumbnail.swf" display_order="240" money="0" sharing="0" enable="Y">
             <state id="chuckle" filename="chuckle.swf"/>
             <state id="crossed_arms" filename="crossed_arms.swf"/>
             <state id="dance" filename="dance.swf"/>

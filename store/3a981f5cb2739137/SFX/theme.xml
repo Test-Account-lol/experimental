@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="import" name="Sound Effects" cc_theme_id="import">
+
+<!--SOUND-->
+<sound id="Door Kick Down Sound Effect.mp3" name="Door Kick Down" subtype="soundeffect" duration="6034" downloadtype="progressive" aid="00937" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Angry German Kid Beating Up Sound Effect" name="Angry German Kid Beating Up" subtype="soundeffect" duration="12034" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+
+</theme>
